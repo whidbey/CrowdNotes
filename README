@@ -1,4 +1,5 @@
 CrowdNotes is a web app for crowd-sourced note-taking.
+Modified by whidbey for newer versions of mongoose and node
 
 Developed using Node.js by Raquel Velez
 Modified by Keith Kuslak for newer versions of mongoose and node
